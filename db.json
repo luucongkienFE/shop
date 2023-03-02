@@ -1,0 +1,53 @@
+{
+  "listorderdata": [
+    {
+      "mapListData": [
+        {
+          "id": 1,
+          "quantity": 20
+        },
+        {
+          "id": 2,
+          "quantity": 20
+        },
+        {
+          "id": 3,
+          "quantity": 1
+        },
+        {
+          "id": 4,
+          "quantity": 1
+        },
+        {
+          "id": 5,
+          "quantity": 1
+        },
+        {
+          "id": 6,
+          "quantity": 1
+        },
+        {
+          "id": 7,
+          "quantity": 1
+        },
+        {
+          "id": 8,
+          "quantity": 1
+        }
+      ],
+      "id": 34043791,
+      "date": "2023-03-02T03:21:07.980Z",
+      "totalFinal": 253100000,
+      "totalQuantity": 46,
+      "firstname": "Lưu Công ",
+      "lastname": "Kiên",
+      "email": "klc72@wru.vn",
+      "phone": "0326777817",
+      "province": "1",
+      "district": "2",
+      "ward": "37",
+      "address": "165 Cầu Giấy",
+      "note": "Kiên"
+    }
+  ]
+}
